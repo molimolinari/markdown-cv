@@ -128,7 +128,7 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
+	font-style: bold;
 	font-size: 110%;
 }
 

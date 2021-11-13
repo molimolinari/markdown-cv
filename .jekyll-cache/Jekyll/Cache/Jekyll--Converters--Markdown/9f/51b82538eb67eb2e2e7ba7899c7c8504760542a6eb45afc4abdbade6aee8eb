@@ -1,0 +1,111 @@
+I"<h1 id="pablo-molinari">Pablo Molinari</h1>
+<p>Cloud Solutions Architect</p>
+<h2 id="foto">Foto</h2>
+<ul>
+  <li><img src="image/fotoCV.jpg" alt="Foto CV" title="fotoCV" /></li>
+</ul>
+
+<h2 id="contacto">Contacto</h2>
+
+<ul>
+  <li><strong>Email:</strong> pablofmoli@gmail.com</li>
+  <li><strong>Linkedin:</strong> https://www.linkedin.com/in/pablo-molinari</li>
+  <li><strong>Celular:</strong> (+54) 11-6672-4899</li>
+  <li><strong>Ciudad:</strong> Buenos Aires, Argentina</li>
+</ul>
+
+<h2 id="perfil">Perfil</h2>
+
+<ul>
+  <li>Soy ingeniero electrónico de la Universidad de Buenos Aires. Tengo siete años de experiencia laboral en los cuales me he desarrollado como profesional en áreas de IT. Actualmente, me encuentro trabajando como líder técnico en una empresa que brinda soluciones de infraestructura, devops, datos y Machine Learning sobre la nube de AWS.</li>
+  <li>Por otra parte, una de mis grandes aspiraciones es lograr desarrollar en paralelo una carrera docente y poder mantener un vínculo sólido con la Universidad que me formó como profesional. Disfruto mucho de enseñar y me gusta poder transmitir los conocimientos adquiridos día a día.</li>
+  <li>A su vez, Como ingeniero en tecnologías de punta, considero fundamental aprender constantemente nuevas herramientas, y de esta forma nutrir mi carrera profesional.</li>
+</ul>
+
+<h3 id="tecnologías">Tecnologías</h3>
+
+<p>Aws, Azure, Python, Linux, Kubernetes, Docker, Terraform, MySQL, API, ML, databases, microservicios, networking, Git, Devops, etc.</p>
+
+<h3 id="idiomas">Idiomas</h3>
+
+<ul>
+  <li>Español - Nativo</li>
+  <li>Inglés - Avanzado</li>
+  <li>Portugués - Básico</li>
+</ul>
+
+<h2 id="experiencia-laboral">Experiencia Laboral</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2021</code>
+<strong>Edrans – Cloud Engineer Tech Lead</strong></p>
+<ul>
+  <li>Solución de Machine Learning para detección de invasiones en puntos de venta para Arcor</li>
+  <li>Solución de Big Data con cluster de Hadoop y queries SQL usando Datalake en AWS para Banco Azteca</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2020 - Sep 2021</code>
+<strong>Baufest – Senior Cloud Solutions Architect</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">Abril 2015 - Sep 2020</code>
+<strong>Telecom – Ingeniero en soluciones de video</strong></p>
+
+<h2 id="docencia">Docencia</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Agosto 2016 - Febrero 2018</code>
+<strong>Ayudante de primera en Universidad de Buenos Aires</strong></p>
+
+<p>Profesor ayudante en la materia Comunicaciones digitales II y III del departamento de electrónica. Dictado de clases teóricas y prácticas.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2010 - 2014</code>
+<strong>Profesor particular de Matemática y Física</strong></p>
+
+<p>En Instituto “Talleres de Palermo”
+Para alumnos de secundario y CBC.</p>
+
+<h2 id="educación">Educación</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2008 - 2015</code></p>
+<ul>
+  <li><strong>Ingeniero Electrónico</strong></li>
+  <li>Facultad de Ingeniería de la Universidad de Buenos Aires</li>
+</ul>
+
+<h3 id="certificaciones">Certificaciones</h3>
+<p><code class="language-plaintext highlighter-rouge">2020</code></p>
+<ul>
+  <li><strong>AWS Solutions Architect Associate</strong></li>
+  <li><strong>AWS Cloud Practitioner</strong></li>
+</ul>
+
+<h3 id="cursos-técnicos">Cursos Técnicos</h3>
+
+<ul>
+  <li>AWS Solutions Architect Professional - A Cloud Guru</li>
+  <li>Azure AZ-900 - Microsoft Azure Fundamentals Training Bootcamp</li>
+  <li>Python Training</li>
+  <li>Designing Cisco Datacenter Infrastructure DCID</li>
+  <li>Introduction to SAN and NAS Storage – Udemy</li>
+  <li>Introduction to OpenShift Applications – RedHat</li>
+  <li>The Complete Linux Administration Course Bundle</li>
+  <li>API &amp; Web Service introduction – Udemy</li>
+  <li>Beginner’s Guide to Containers – Linux Academy</li>
+  <li>AWS Certified Solutions Architect – Udemy</li>
+  <li>SQL Language training – Píldoras Informáticas</li>
+  <li>Python training course - Educacion IT institute.</li>
+  <li>CCNA Routing and Switching - CISCO: ICND1 and ICND2</li>
+</ul>
+
+<h3 id="cursos-blandos">Cursos Blandos</h3>
+<ul>
+  <li>Liderazgo</li>
+  <li>Agile Scrum</li>
+  <li>Técnicas y herramientas de negociación</li>
+  <li>Trabajo en equipo</li>
+</ul>
+
+<div id="webaddress">
+<a href="pablofmoli@gmail.com"> pablofmoli@gmail.com </a>
+| <a href="https://www.linkedin.com/in/pablo-molinari/">https://www.linkedin.com/in/pablo-molinari</a>
+| (+54) 11-6672-4899
+</div>
+:ET

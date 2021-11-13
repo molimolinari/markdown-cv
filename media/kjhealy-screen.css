@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
+html, body, div, span, applet, object, iframe
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -42,10 +42,7 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+
 
 /* end of reset */
 
@@ -59,7 +56,19 @@ body {
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	
 }
+
+table {
+	position: relative;
+	font-family: Verdana,sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	margin-top: 1em;
+	margin-left: 1em;
+	line-height: 1.5em;
+}
+  
 
 p {
 	position: relative;
@@ -128,8 +137,9 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
+	font-style: bold;
 	font-size: 110%;
+	text-align: left;
 }
 
 h2 {
@@ -163,10 +173,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 120%;
+	left: 10%
 }
 
 #webaddress a {
